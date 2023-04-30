@@ -1,10 +1,10 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: sit323-737-2023-t1-prac7p-service
+  name: sit323-737-2023-t1-prac7c-service
 spec:
   selector:
-    app: sit323-737-2023-t1-prac7p
+    app: sit323-737-2023-t1-prac7c
   ports:
     - protocol: TCP
       port: 80
